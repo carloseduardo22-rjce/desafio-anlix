@@ -38,6 +38,8 @@ Este projeto foi desenvolvido como parte de um teste técnico para a vaga de Des
 
 ## Uso
 
+- Instale o docker antes de iniciar se não tiver instalado.
+
 - Clone o repositório e entre nele
 
 ```
