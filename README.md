@@ -61,5 +61,5 @@ Frontend: http://localhost:3000
 
 - Este aqui é o repositório do backend separado com histórico de commits
 ```
-https://github.com/carloseduardo22-rjce/desafio-anlix
+https://github.com/carloseduardo22-rjce/desafio-anlix-back
 ```
