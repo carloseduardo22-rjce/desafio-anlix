@@ -38,15 +38,25 @@ Este projeto foi desenvolvido como parte de um teste técnico para a vaga de Des
 
 ## Uso
 
-- Clone o repositório e entre nele
+### Requisitos
+
+- Instale o docker antes de iniciar se não tiver instalado.
+- Instale o Java 17 na sua máquina.
+
+- Clone o repositório e entre na pasta backend para gerar o jar
 
 ```
-git clone https://github.com/carloseduardo22-rjce/desafio-anlix..git
-cd desafio-anlix.
+git clone https://github.com/carloseduardo22-rjce/desafio-anlix.git
+cd desafio-anlix\backend
+```
+- Rode o comando
+
+```
+./mvnw clean package -DskipTests
 ```
 
-- Rode
-
+- Depois disso volte a pasta desafio-anlix e rode
+  
 ```
 docker-compose up --build
 ```
@@ -59,5 +69,5 @@ Frontend: http://localhost:3000
 
 - Este aqui é o repositório do backend separado com histórico de commits
 ```
-https://github.com/carloseduardo22-rjce/desafio-anlix
+https://github.com/carloseduardo22-rjce/desafio-anlix-back
 ```
