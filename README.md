@@ -38,8 +38,9 @@ Este projeto foi desenvolvido como parte de um teste técnico para a vaga de Des
 
 ## Uso
 
-### Requisitos
+### Passos
 
+- Realize os passos no powershell.
 - Instale o docker antes de iniciar se não tiver instalado.
 - Instale o Java 17 na sua máquina.
 
