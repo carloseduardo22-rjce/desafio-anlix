@@ -62,7 +62,7 @@ cd desafio-anlix\backend
 docker-compose up --build
 ```
 
-- Acesse
+- Atenção, só acesse o frontend depois de todos os inserts tiverem executados para uma boa experiência. Depois acesse
 
 ```
 Frontend: http://localhost:3000
