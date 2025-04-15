@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte de um teste técnico para a vaga de Des
   - Java
   - Spring Boot
   - Hibernate / JPA
-  - H2
+  - H2 para teste e Postgre para prod
   - Docker e Docker Compose
 
 - **Frontend**:
@@ -55,7 +55,7 @@ cd desafio-anlix\backend
 ./mvnw clean package -DskipTests
 ```
 
-- Depois disso volte a pasta desafio-anlix e rode
+- Depois disso volte para a pasta desafio-anlix e rode
   
 ```
 docker-compose up --build
